@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiBiblioteca</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiBiblioteca.Controllers.LibroController.InsertLibro(WebApiBiblioteca.Models.LibroModel)">
+            <summary>
+            Servicio para registrar un nuevo libro 
+            </summary>
+            <param name="libroModel"> Modelo con la información del libro  </param>
+            <returns>Mensaje y estatus de la acción </returns>  
+            <remarks>
+            Sample request: 
+            
+                POST     
+                {
+                  "noVolumen": "1A",
+                  "titulo": "Titulo 1",
+                  "idLocalizacion": "1"
+                }
+                
+            Sample Response
+            
+                { 
+                "message": "El libro se registró con éxito"
+                }
+            </remarks>
+        </member>
+        <member name="M:WebApiBiblioteca.Controllers.LibroController.UpdateLibro(WebApiBiblioteca.Models.LibroModel)">
+            <summary>
+            Api para Actualizar info de un libro 
+            </summary>
+            <param name="libroModel">modelo con la informacion del libro </param>
+            <returns>Estatus de la ccion </returns>
+            <remarks>
+            Sample request:
+            
+                POST
+                {
+                  "idLibro": 2,
+                  "noVolumen": "2BC",
+                  "titulo": "Titulo 1B",
+                  "idLocalizacion": "1"
+                }
+                
+            Sample Response
+            
+                { 
+                "message": "El libro se actualizo con éxito"
+                }
+            </remarks>
+        </member>
+        <member name="M:WebApiBiblioteca.Controllers.LibroController.DeleteLibro(System.Int32)">
+            <summary>
+            Api para eliminar un libro 
+            </summary>
+            <param name="IdLibro">Id del libro </param>
+            <returns>Estatus de la accrion </returns>
+            <remarks>
+            Sample request
+            
+                POST
+                IdLibro = 2
+                
+            Sample response:
+            
+                {
+                 "status": true,
+                 "message": "El libro se borro con éxito"
+                }
+            </remarks>
+        </member>
+        <member name="M:WebApiBiblioteca.Controllers.LibroController.GetAllLibros">
+            <summary>
+            Api para consultar todos los libros 
+            </summary>
+            <returns>Retorna lista de libros</returns>
+            <remarks>
+            Sample request:
+               
+                GET
+                El servicio no requiere parametros 
+                
+            Sample Response 
+            
+                
+            </remarks>
+        </member>
+        <member name="T:WebApiBiblioteca.Models.LibroModel">
+            <summary>
+            Modelo de tipo libro  para realizar validaciones de datos 
+            </summary>
+        </member>
+        <member name="P:WebApiBiblioteca.Models.LibroModel.IdLibro">
+            <summary>
+            Identificador unico del libro
+            </summary>
+        </member>
+        <member name="P:WebApiBiblioteca.Models.LibroModel.NoVolumen">
+            <summary>
+            Numero de volumen 
+            </summary>
+        </member>
+        <member name="P:WebApiBiblioteca.Models.LibroModel.Titulo">
+            <summary>
+            Titulo del libro
+            </summary>
+        </member>
+        <member name="P:WebApiBiblioteca.Models.LibroModel.IdLocalizacion">
+            <summary>
+            ubicacion en cordenadas del libro 
+            </summary>
+        </member>
+        <member name="T:WebApiBiblioteca.Services.MappingProfile">
+            <summary>
+            Clase para realizar el automapper 
+            </summary>
+        </member>
+        <member name="M:WebApiBiblioteca.Services.MappingProfile.#ctor">
+            <summary>
+            constructor
+            </summary>
+        </member>
+    </members>
+</doc>

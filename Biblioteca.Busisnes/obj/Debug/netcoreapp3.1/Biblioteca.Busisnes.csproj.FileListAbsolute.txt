@@ -1,0 +1,16 @@
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\bin\Debug\netcoreapp3.1\Biblioteca.Busisnes.deps.json
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\bin\Debug\netcoreapp3.1\Biblioteca.Busisnes.dll
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\bin\Debug\netcoreapp3.1\Biblioteca.Busisnes.pdb
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\bin\Debug\netcoreapp3.1\Biblioteca.Data.dll
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\bin\Debug\netcoreapp3.1\Biblioteca.Entities.dll
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\bin\Debug\netcoreapp3.1\Biblioteca.Shared.dll
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\bin\Debug\netcoreapp3.1\Biblioteca.Data.pdb
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\bin\Debug\netcoreapp3.1\Biblioteca.Entities.pdb
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\bin\Debug\netcoreapp3.1\Biblioteca.Shared.pdb
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\obj\Debug\netcoreapp3.1\Biblioteca.Busisnes.csprojAssemblyReference.cache
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\obj\Debug\netcoreapp3.1\Biblioteca.Busisnes.AssemblyInfoInputs.cache
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\obj\Debug\netcoreapp3.1\Biblioteca.Busisnes.AssemblyInfo.cs
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\obj\Debug\netcoreapp3.1\Biblioteca.Busisnes.csproj.CoreCompileInputs.cache
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\obj\Debug\netcoreapp3.1\Biblioteca.Busisnes.csproj.CopyComplete
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\obj\Debug\netcoreapp3.1\Biblioteca.Busisnes.dll
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Busisnes\obj\Debug\netcoreapp3.1\Biblioteca.Busisnes.pdb

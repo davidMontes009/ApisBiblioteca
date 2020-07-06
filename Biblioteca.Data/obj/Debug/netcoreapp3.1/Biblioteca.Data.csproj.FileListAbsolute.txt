@@ -1,0 +1,14 @@
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\bin\Debug\netcoreapp3.1\Biblioteca.Data.deps.json
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\bin\Debug\netcoreapp3.1\Biblioteca.Data.dll
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\bin\Debug\netcoreapp3.1\Biblioteca.Entities.dll
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\bin\Debug\netcoreapp3.1\Biblioteca.Entities.pdb
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\obj\Debug\netcoreapp3.1\Biblioteca.Data.csprojAssemblyReference.cache
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\obj\Debug\netcoreapp3.1\Biblioteca.Data.AssemblyInfoInputs.cache
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\obj\Debug\netcoreapp3.1\Biblioteca.Data.AssemblyInfo.cs
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\obj\Debug\netcoreapp3.1\Biblioteca.Data.csproj.CopyComplete
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\bin\Debug\netcoreapp3.1\Biblioteca.Data.pdb
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\bin\Debug\netcoreapp3.1\Biblioteca.Shared.dll
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\bin\Debug\netcoreapp3.1\Biblioteca.Shared.pdb
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\obj\Debug\netcoreapp3.1\Biblioteca.Data.csproj.CoreCompileInputs.cache
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\obj\Debug\netcoreapp3.1\Biblioteca.Data.dll
+C:\Users\davidmontes\source\repos\WebApiBiblioteca\Biblioteca.Data\obj\Debug\netcoreapp3.1\Biblioteca.Data.pdb
